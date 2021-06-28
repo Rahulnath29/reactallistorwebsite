@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/reactallistorwebsite/static/js/main.dc9196e6.chunk.js",
+    "main.js.map": "/reactallistorwebsite/static/js/main.dc9196e6.chunk.js.map",
+    "runtime-main.js": "/reactallistorwebsite/static/js/runtime-main.3a3d82e0.js",
+    "runtime-main.js.map": "/reactallistorwebsite/static/js/runtime-main.3a3d82e0.js.map",
+    "static/js/2.f9531944.chunk.js": "/reactallistorwebsite/static/js/2.f9531944.chunk.js",
+    "static/js/2.f9531944.chunk.js.map": "/reactallistorwebsite/static/js/2.f9531944.chunk.js.map",
+    "static/js/3.85760b6a.chunk.js": "/reactallistorwebsite/static/js/3.85760b6a.chunk.js",
+    "static/js/3.85760b6a.chunk.js.map": "/reactallistorwebsite/static/js/3.85760b6a.chunk.js.map",
+    "index.html": "/reactallistorwebsite/index.html",
+    "static/js/2.f9531944.chunk.js.LICENSE.txt": "/reactallistorwebsite/static/js/2.f9531944.chunk.js.LICENSE.txt",
+    "static/media/AboutHero.c9cc759c.jpg": "/reactallistorwebsite/static/media/AboutHero.c9cc759c.jpg",
+    "static/media/AboutWall.51003b4f.jpg": "/reactallistorwebsite/static/media/AboutWall.51003b4f.jpg",
+    "static/media/HeroWall.8c9bb3e8.jpg": "/reactallistorwebsite/static/media/HeroWall.8c9bb3e8.jpg",
+    "static/media/HomeHero.cef07806.jpg": "/reactallistorwebsite/static/media/HomeHero.cef07806.jpg",
+    "static/media/SupplementHero.dfb39852.jpg": "/reactallistorwebsite/static/media/SupplementHero.dfb39852.jpg",
+    "static/media/proteine1.39fdff94.jpg": "/reactallistorwebsite/static/media/proteine1.39fdff94.jpg",
+    "static/media/proteine2.585956ab.jpg": "/reactallistorwebsite/static/media/proteine2.585956ab.jpg",
+    "static/media/proteine3.46cc8e9c.jpg": "/reactallistorwebsite/static/media/proteine3.46cc8e9c.jpg",
+    "static/media/proteine4.82f20e47.jpg": "/reactallistorwebsite/static/media/proteine4.82f20e47.jpg",
+    "static/media/proteine5.4e471f51.jpg": "/reactallistorwebsite/static/media/proteine5.4e471f51.jpg",
+    "static/media/proteine6.221df35c.jpg": "/reactallistorwebsite/static/media/proteine6.221df35c.jpg",
+    "static/media/supp1.9fb5bed9.jpg": "/reactallistorwebsite/static/media/supp1.9fb5bed9.jpg",
+    "static/media/supp2.0e80f073.jpg": "/reactallistorwebsite/static/media/supp2.0e80f073.jpg",
+    "static/media/supp3.f90d79b6.jpg": "/reactallistorwebsite/static/media/supp3.f90d79b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a3d82e0.js",
+    "static/js/2.f9531944.chunk.js",
+    "static/js/main.dc9196e6.chunk.js"
+  ]
+}
